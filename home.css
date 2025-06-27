@@ -1,0 +1,36 @@
+
+
+.home h1{
+    margin-top: 30px;
+    position: absolute;
+    left: 600px;
+    color: black;
+    
+
+}
+.home img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+}
+ .home h1{
+    position: absolute;
+    left:750px ;
+    margin-top: 70px;
+ }
+ .home h3{
+    position: absolute;
+    left: 650px;
+    margin-top:  120px;
+ }
+ .home h2{
+    position: absolute;
+    left:850px ;
+    margin-top: 630px;
+ }
+.hello img{
+    margin-top: 50px;
+    left: 550px;
+    position: absolute;
+}
